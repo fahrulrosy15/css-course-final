@@ -291,6 +291,7 @@ a:active{
     -o-border-radius: var(--borders-radius);
     background-color: var(--highlight-color);
     color: var(--button-color);
+    font-weight:bold;
 }
 
 /* ||MENU */
